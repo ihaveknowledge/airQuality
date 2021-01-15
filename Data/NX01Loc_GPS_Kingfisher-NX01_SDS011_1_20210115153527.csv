@@ -1,0 +1,9 @@
+Time Period,start:,2021-01-15 15:35:27,end:,
+Sensors:,SDS011_1
+Location:,NX01Loc_GPS,Lat-Lon,lat,lon
+Interval time,60
+time,lat,lon,alt,sds-pm2.5,sds-pm10,sds-TSP
+2021-01-15 15:35:27,nan,nan,nan,nan,nan,nan,999
+2021-01-15 15:36:54,nan,nan,nan,nan,nan,nan,999
+2021-01-15 15:37:27,nan,nan,nan,nan,nan,nan,999
+2021-01-15 15:38:27,nan,nan,nan,nan,nan,nan,999
